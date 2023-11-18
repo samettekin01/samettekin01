@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet Tekin</h1>
-<h3 align="center">Hi, I'm Samet. I enjoy research and developing myself.</h3>
+<h3 align="center">"Time, disciplin and organization are everything."</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
